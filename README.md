@@ -1,7 +1,8 @@
 <style>
   .greyback {
-    background-color: #ff9800;
-    padding: 10px;
+    background-color: #eeee;
+    padding: 5px;
+    cursor: pointer;
   }
   
 </style>
