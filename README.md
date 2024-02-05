@@ -1,4 +1,10 @@
-
+<style>
+  .greyback {
+    background-color: #ff9800;
+    padding: 10px;
+  }
+  
+</style>
 
 
 # Title
@@ -6,7 +12,7 @@ Brock OJS Frequently Asked Questions
 
 
 
-<details>
+<details class="greyback">
   <summary><h2>Question 1</h2></summary>
   <p>Do this by doing that</p>
 </details>
