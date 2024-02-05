@@ -6,7 +6,7 @@ Brock OJS Frequently Asked Questions
 
 
 
-<details>
+<details background-color="#eee">
   <summary>Click me</summary>
   
   ### Heading
