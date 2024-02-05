@@ -18,7 +18,15 @@ Brock OJS Frequently Asked Questions
   <p>Do this by doing that</p>
 </details>
 
+<details class="greyback">
+  <summary><h2>Question 2</h2></summary>
+  <p>Do this by doing that</p>
+</details>
 
+<details class="greyback">
+  <summary><h2>Question 3</h2></summary>
+  <p>Do this by doing that</p>
+</details>
 
 
 
