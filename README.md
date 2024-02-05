@@ -6,21 +6,9 @@ Brock OJS Frequently Asked Questions
 
 
 
-<details background-color="#eee">
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+<details>
+  <summary><h2>Question 1</h2></summary>
+  <p>Do this by doing that</p>
 </details>
 
 
